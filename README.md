@@ -1,7 +1,7 @@
-<p align="center>
-  <img src = "https://user-images.githubusercontent.com/80349484/194348556-ca043a1d-9b60-4878-9764-62955d82fae5.png"  width = 100>
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/80349484/194348556-ca043a1d-9b60-4878-9764-62955d82fae5.png" alt = "ApPills logo", width = 200>
 </p>
-
+                                                                                                                    
 # ApPills
 IoT platfrom, composed of several microservices, for a Smart Pill Case. 
 Trough the development of a TelegramBot, the system implements several useful functions:
@@ -20,11 +20,16 @@ The main utilized communcation protocols are MQTT for asynchronous communication
 
 The smartcase was simulated, since the project was developed during COVID-19 and it was not possible to obtain a Raspberry Pi.
 
-![Schermata 2022-10-06 alle 17 07 18](https://user-images.githubusercontent.com/80349484/194351247-b8505d42-223d-4990-a0eb-64f65f4330fd.png)
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/80349484/194351247-b8505d42-223d-4990-a0eb-64f65f4330fd.png" alt = "SmartCase", width = 400>
+</p>
 
-## System Structure
+## System Structure
 
-![Schermata 2022-10-06 alle 17 11 12](https://user-images.githubusercontent.com/80349484/194351386-960eac33-9c88-4c11-a588-82251ce98260.png)
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/80349484/194351386-960eac33-9c88-4c11-a588-82251ce98260.png" alt = "System Structure", width = 600>
+</p>
+![Schermata 2022-10-06 alle 17 11 12]()
 
 ## How to run the code
 
