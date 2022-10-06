@@ -1,0 +1,21 @@
+{
+        "numSlots": 4,
+        "pills": [
+                16,
+                7,
+                6,
+                9
+        ],
+        "alarmOn": false,
+        "alarmStartTime": 1657024321.243148,
+        "ledOn": [
+                0,
+                0,
+                0,
+                0
+        ],
+        "userID": 7,
+        "deviceID": 9,
+        "assigned": true,
+        "lidOpened": false
+}

@@ -1,0 +1,228 @@
+{
+      "baseTopic": "smartCase",
+      "broker": "broker.hivemq.com",
+      "port": 1883,
+      "token": "1708830933:AAFtixzx53t-szlWTnJ2ITQD5xtsV6TeDR4",
+      "apiKeyWrite": "XBTQX2Y3Y4Z6BPWD",
+      "assistant-token": "2072499568:AAFK8kghzTl5Wpo4EhFBKt3zCZ8MNr94JAQ",
+      "patientList": [
+            {
+                  "userID": 5,
+                  "userName": "Lucia",
+                  "password": "0000",
+                  "usage": "personal",
+                  "chatID": 256772790,
+                  "last_update": "Thu Jun  2 16:58:04 2022",
+                  "devices": [
+                        {
+                              "deviceID": 8,
+                              "deviceURI": "http://127.0.0.1:8090",
+                              "thingSpeakChannel": "1766773/KBW6FSSIJNUR4VJ1",
+                              "tempUpperThresh": 30.0,
+                              "tempLowerThresh": 10.0,
+                              "humUpperThresh": 60.0,
+                              "humLowerThresh": 40.0,
+                              "numSlots": 3,
+                              "slots": [
+                                    {
+                                          "pillName": "",
+                                          "schedule": [
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "17:27:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "18:53:00"
+                                                }
+                                          ]
+                                    },
+                                    {
+                                          "pillName": "",
+                                          "schedule": [
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 3,
+                                                      "time": "15:00:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "17:08:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "17:31:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "18:45:00"
+                                                }
+                                          ]
+                                    },
+                                    {
+                                          "pillName": "",
+                                          "schedule": [
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "14:32:00"
+                                                }
+                                          ]
+                                    }
+                              ]
+                        }
+                  ],
+                  "assistants": []
+            },
+            {
+                  "userID": 7,
+                  "userName": "Luca",
+                  "password": "123",
+                  "usage": "personal",
+                  "chatID": 337113480,
+                  "last_update": "Wed Jun  8 14:23:53 2022",
+                  "devices": [
+                        {
+                              "deviceID": 9,
+                              "deviceURI": "http://127.0.0.1:8090",
+                              "thingSpeakChannel": "1769677/ZU0FWCHMOVIR8OAE",
+                              "tempUpperThresh": 35.0,
+                              "tempLowerThresh": 5.0,
+                              "humUpperThresh": 65.0,
+                              "humLowerThresh": 35.0,
+                              "numSlots": 4,
+                              "slots": [
+                                    {
+                                          "pillName": "Frangetta",
+                                          "schedule": [
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "11:26:00"
+                                                }
+                                          ]
+                                    },
+                                    {
+                                          "pillName": "Yogurt",
+                                          "schedule": [
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "11:48:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "14:30:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "14:41:00"
+                                                }
+                                          ]
+                                    },
+                                    {
+                                          "pillName": "",
+                                          "schedule": [
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "20:10:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "11:14:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "11:25:00"
+                                                }
+                                          ]
+                                    },
+                                    {
+                                          "pillName": "",
+                                          "schedule": [
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "11:48:00"
+                                                },
+                                                {
+                                                      "alarm": 0,
+                                                      "numPill": 1,
+                                                      "time": "14:28:00"
+                                                }
+                                          ]
+                                    }
+                              ]
+                        }
+                  ],
+                  "assistants": [
+                        {
+                              "assistantID": 8
+                        }
+                  ]
+            }
+      ],
+      "assistantList": [
+            {
+                  "userID": 8,
+                  "userName": "LucasDoctor",
+                  "chatID": 337113480,
+                  "last_update": "Wed Jun  8 14:33:48 2022",
+                  "assistedPatients": [
+                        {
+                              "patientID": 7
+                        }
+                  ]
+            }
+      ],
+      "newDevices": [
+            {
+                  "deviceID": 10,
+                  "deviceURI": "http://127.0.0.1:8090",
+                  "numSlots": 3
+            }
+      ],
+      "aliveServices": [
+            {
+                  "service": "conservationControl",
+                  "lastSeen": 1657025201.870625
+            },
+            {
+                  "service": "timeShift",
+                  "lastSeen": 1657025198.776095
+            },
+            {
+                  "service": "openingControl",
+                  "lastSeen": 1657025201.2089732
+            },
+            {
+                  "service": "differenceCalculator",
+                  "lastSeen": 1657025202.6360672
+            },
+            {
+                  "service": "thingSpeakAdapter",
+                  "lastSeen": 1657025197.536986
+            },
+            {
+                  "service": "telegramBot",
+                  "lastSeen": 1657025195.862106
+            },
+            {
+                  "service": "assistantTelegramBot",
+                  "lastSeen": 1657025197.6103082
+            }
+      ],
+      "times": [],
+      "pillCount": [],
+      "lastUpdate": "Tue Jul  5 14:40:36 2022"
+}
