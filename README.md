@@ -27,7 +27,7 @@ The smartcase was simulated, since the project was developed during COVID-19 and
 ## System Structure
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/80349484/194351386-960eac33-9c88-4c11-a588-82251ce98260.png" alt = "System Structure", width = 900>
+  <img src = "https://user-images.githubusercontent.com/80349484/194351386-960eac33-9c88-4c11-a588-82251ce98260.png" alt = "System Structure", width = 800>
 </p>
 
 ## How to run the code
