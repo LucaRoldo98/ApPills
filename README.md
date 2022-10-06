@@ -27,7 +27,7 @@ The smartcase was simulated, since the project was developed during COVID-19 and
 ## System Structure
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/80349484/194351386-960eac33-9c88-4c11-a588-82251ce98260.png" alt = "System Structure", width = 600>
+  <img src = "https://user-images.githubusercontent.com/80349484/194351386-960eac33-9c88-4c11-a588-82251ce98260.png" alt = "System Structure", width = 1000>
 </p>
 ![Schermata 2022-10-06 alle 17 11 12]()
 
